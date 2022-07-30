@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = demi.kaucic@gmail.com
+	name = demi kaucic
